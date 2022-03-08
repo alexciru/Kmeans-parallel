@@ -113,8 +113,8 @@ original data              |  classified data
 
 
 ### Threads average
-# Threads  | t1 | t2 | t3 | average
-:---------:|:--:|:--:|:--:|:-----:
+|# Threads  | t1 | t2 | t3 | average |
+:---------:|:--:|:--:|:--:|:-----:|
 |1 | 0.654 ms| 0.670 ms| 0.633 ms| 0.635 ms |
 |2 | 0.577 ms| 0.633 ms| 0.672 ms| 0.627 ms |
 |3 | 0.606 ms| 0.579 ms| 0.588 ms| 0.591 ms |
