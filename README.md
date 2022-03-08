@@ -60,8 +60,8 @@ As we can see in the result, we don’t see an improvement in the performance wi
 execution due to the small dimension of the dataset.
 
 
-![MarineGEO circle logo](\output\iris_result\iris.png "iris data")
-![MarineGEO circle logo](\output\iris_result\iris.png "iris data kmeans")
+![iris data](/output/iris_result/iris.png "iris data")
+![iris data](\output\iris_result\iris.png "iris data kmeans")
 
 
 ### Threads average
