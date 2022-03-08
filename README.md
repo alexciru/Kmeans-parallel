@@ -61,7 +61,7 @@ execution due to the small dimension of the dataset.
 
 
 ![iris data](/output/iris_result/iris.png "iris data")
-![iris data](\output\iris_result\iris.png "iris data kmeans")
+![iris data](/output/iris_result/irisf.png "iris data kmeans")
 
 
 ### Threads average
@@ -80,6 +80,10 @@ execution time.
 As we can see in the result table there is a slightly improvement in the performance, but once 
 we are used to many threads the performance decreases again.
 
+
+![artificial data](/output/artificial_data_result/plot8000.png "iris data")
+![artificial data](/output/artificial_data_result/plot8000f.png "iris data kmeans")
+
 ### Threads average
 1 0.654 ms 0.670 ms 0.633 ms 0.635 ms
 2 0.577 ms 0.633 ms 0.672 ms 0.627 ms
@@ -96,6 +100,10 @@ between 2007 and 2010. In order to use this dataset, it needed to be cleaned, re
 empty instances. This dataset is not mean to be used for clustering, therefore we will not be 
 able to take conclusion about the dataset.
 For the huge number of instances, it can only be done 1 execution per number of threads.
+
+![power data](/output/power_result/power_init.png "iris data")
+![power data](/output/power_result/power_final.png "iris data kmeans")
+
 ### Threads average
 1 0.654 ms 0.670 ms 0.633 ms 0.635 ms
 2 0.577 ms 0.633 ms 0.672 ms 0.627 ms
