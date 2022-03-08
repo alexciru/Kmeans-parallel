@@ -14,7 +14,9 @@ distance.
 to that centroid
 4. With the new position of the centroid we assign the nearest point and repeat the 
 process until the position of the centroid not vary
-Input and output
+
+
+# Input and output
 This project will receive the input for a .txt file. In this file we will read the x and y position. After 
 the execution of the program we will write the output in another file writing the x and y position 
 and the cluster where it belongs. We will write a file for every iteration in the algorithm in order to 
@@ -22,6 +24,8 @@ see the progression of each iteration
 Once we have the output in the file, we will use Gnuplot, an open plotting tool, in order to plot 
 the results in a graphic and realise a further analysis in order to take conclusions if possible.
 Structure of program
+
+
 The program is structure as follows:
 - Point.py: File where the point Class is storage. We will create an instance of a point for 
 every entry in the input. The Point class will also storage the cluster where is assign
