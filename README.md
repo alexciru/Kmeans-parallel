@@ -58,6 +58,12 @@ This was one of the first experiments and was mainly used to check the algorith 
 writing.
 As we can see in the result, we don’t see an improvement in the performance with the parallel 
 execution due to the small dimension of the dataset.
+
+
+![MarineGEO circle logo](\output\iris_result\iris.png "iris data")
+![MarineGEO circle logo](\output\iris_result\iris.png "iris data kmeans")
+
+
 ### Threads average
 1 0.107 ms 0.098 ms 0.122 ms 0.109 ms
 2 0.125 ms 0.132 ms 0.130 ms 0.134 ms
