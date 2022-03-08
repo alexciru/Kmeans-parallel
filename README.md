@@ -66,7 +66,7 @@ original data              |  classified data
 
 
 ### Threads average
-# Threads  | t1 | t2 | t3 | t4 | average
+|# Threads  | t1 | t2 | t3 | t4 | average |
 :---------:|:--:|:--:|:--:|:--:|:-----:
 |1 | 0.107 ms| 0.098 ms| 0.122 ms| 0.109 ms |
 |2 | 0.125 ms| 0.132 ms| 0.130 ms| 0.134 ms |
@@ -89,7 +89,7 @@ original data              |  classified data
 
 
 ### Threads average
-# Threads  | t1 | t2 | t3 | t4 | average
+|# Threads  | t1 | t2 | t3 | t4 | average|
 :---------:|:--:|:--:|:--:|:--:|:-----:
 |1| 0.654 ms| 0.670 ms| 0.633 ms| 0.635 ms |
 |2| 0.577 ms| 0.633 ms| 0.672 ms| 0.627 ms |
